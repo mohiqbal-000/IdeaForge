@@ -1,0 +1,19 @@
+# Spring Boot / Maven
+**/target/
+
+# Node / React
+**/node_modules/
+**/dist/
+**/application.yml
+# Environment files / API keys
+.env
+.env.*
+!.env.example
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Logs
+*.log
